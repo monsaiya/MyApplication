@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calculate_label">คำนวน</string>
+    <string name="Weight_lable">น้ำ้หนัก (กก.)</string>
+    <string name="height_lable">ความสูง (ซม.)</string>
+</resources>

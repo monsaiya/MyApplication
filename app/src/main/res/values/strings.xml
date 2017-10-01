@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="height_lable">Height (cm)</string>
+    <string name="Weight_lable">Weight (kg)</string>
+    <string name="calculate_label">Calculate</string>
+
+</resources>
